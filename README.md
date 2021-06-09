@@ -15,6 +15,18 @@ Read more about me and my projects [here](https://niklasrast.github.io/)
 
 ### Technology stack
 
+<img src="https://img.shields.io/badge/-PowerShell-blue"/>
+
+<img src="https://img.shields.io/badge/-Azure-blue"/>
+
+<img src="https://img.shields.io/badge/-MSGraph-blue"/>
+
+<img src="https://img.shields.io/badge/-Intune-blue"/>
+
+<img src="https://img.shields.io/badge/-ConfigManager-blue"/>
+
+<img src="https://img.shields.io/badge/-Windows-blue"/>
+
 <hr>
 
 ### My Github stats
