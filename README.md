@@ -1,8 +1,22 @@
+<p align="center">
 ### Hi there i am Niklas 👋
 I'm specialising in the design and architecture of Microsoft environments with main emphasis on Modern Devicemanagement and Microsoft Azure services.
 Currently im employed by Operational services GmbH & Co. KG and i am the product manager for Microsoft Endpoint Manager.
 
+
+<img src="https://badges.pufler.dev/visits/niklasrast/niklasrast"/> 
+<img src="https://badges.pufler.dev/years/niklasrast"/>
+<img src="https://badges.pufler.dev/repos/niklasrast"/>
+<img src="https://badges.pufler.dev/commits/monthly/niklasrast" />
+
 Read more about me and my projects [here](https://niklasrast.github.io/)
+<hr>
+
+### Technology stack
+
+<hr>
+
+### My Github stats
 
 ![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niklasrast&show_icons=true&theme=react&hide=stars,prs,contribs)
 
@@ -11,7 +25,7 @@ Read more about me and my projects [here](https://niklasrast.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=niklasrast&label=PROFILE+VIEWS)
 
-
+</p>
 <!--
 **niklasrast/niklasrast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
