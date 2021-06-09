@@ -9,6 +9,8 @@ Read more about me and my projects [here](https://niklasrast.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklasrast&layout=compact&theme=react)](https://github.com/niklasrast/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=niklasrast&label=PROFILE+VIEWS)
+
 
 <!--
 **niklasrast/niklasrast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
