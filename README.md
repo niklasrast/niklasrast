@@ -1,5 +1,8 @@
 ### Hi there i am Niklas 👋
-Im an administrator for Modern Workplace management powered by Microsoft Azure.
+I'm specialising in the design and architecture of Microsoft environments with main emphasis on Modern Devicemanagement and Microsoft Azure services.
+Currently im employed by Operational services GmbH & Co. KG and the product manager for Microsoft Intune.
+
+Read more about me and my projects [here](https://niklasrast.github.io/)
 
 ![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niklasrast&show_icons=true&theme=react&hide=stars,prs,contribs)
 
