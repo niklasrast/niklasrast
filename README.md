@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hi there i am Niklas 👋
+Im an administrator for Modern Workplace management powered by Microsoft Azure.
+
+![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niklasrast&show_icons=true&theme=react&hide=stars,prs,contribs)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklasrast&layout=compact&theme=react)](https://github.com/niklasrast/github-readme-stats)
+
 
 <!--
 **niklasrast/niklasrast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on amazing stuff for Microsoft Intune and Windows 10 Management
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
