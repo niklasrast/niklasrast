@@ -1,5 +1,3 @@
-<p align="center">
-
 ### Hi there i am Niklas 👋
 I'm specialising in the design and architecture of Microsoft environments with main emphasis on Modern Devicemanagement and Microsoft Azure services.
 Currently im employed by Operational services GmbH & Co. KG and i am the product manager for Microsoft Endpoint Manager.
@@ -16,15 +14,10 @@ Read more about me and my projects [here](https://niklasrast.github.io/)
 ### Technology stack
 
 <img src="https://img.shields.io/badge/-PowerShell-blue"/>
-
 <img src="https://img.shields.io/badge/-Azure-blue"/>
-
 <img src="https://img.shields.io/badge/-MSGraph-blue"/>
-
 <img src="https://img.shields.io/badge/-Intune-blue"/>
-
 <img src="https://img.shields.io/badge/-ConfigManager-blue"/>
-
 <img src="https://img.shields.io/badge/-Windows-blue"/>
 
 <hr>
@@ -38,7 +31,6 @@ Read more about me and my projects [here](https://niklasrast.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=niklasrast&label=PROFILE+VIEWS)
 
-</p>
 <!--
 **niklasrast/niklasrast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
