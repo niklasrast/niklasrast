@@ -31,7 +31,7 @@ Currently im employed by Operational services GmbH & Co. KG and i am the product
 <hr>
 
 ### Certifications
-<img src="https://www.credly.com/badges/96276113-dd65-479a-a7b7-f43219349247/public_url" alt="AZ-900" title="AZ-900" width="150" height="100" />
+<img src="microsoft-certified-azure-fundamentals.png"/>
 
 <hr>
 
