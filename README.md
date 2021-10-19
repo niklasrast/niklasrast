@@ -21,7 +21,6 @@ Currently im employed by Operational services GmbH & Co. KG and i am the product
 <img src="https://img.shields.io/badge/-Azure-blue"/>
 <img src="https://img.shields.io/badge/-MS Graph-blue"/>
 <img src="https://img.shields.io/badge/-Intune-blue"/>
-<img src="https://img.shields.io/badge/-Config Manager-blue"/>
 <img src="https://img.shields.io/badge/-Windows-blue"/>
 <img src="https://img.shields.io/badge/-Azure Virtual Desktop-blue"/>
 <img src="https://img.shields.io/badge/-VSCode-blue"/>
