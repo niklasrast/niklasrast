@@ -29,8 +29,12 @@ Currently im employed by Operational services GmbH & Co. KG and i am the product
 </p>
 <hr>
 
-### Certifications
+### Certifications:
 <img src="microsoft-certified-azure-fundamentals.png"/>
+
+### Exams:
+<img src="microsoft-certified-windows10.png"/>
+
 
 <hr>
 
