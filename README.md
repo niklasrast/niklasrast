@@ -1,7 +1,7 @@
 ### Hi there i am Niklas 👋
 <br>
 I'm specialising in the design and architecture of Microsoft environments with main emphasis on Modern Devicemanagement and Microsoft Azure services.
-Currently im employed by Operational services GmbH & Co. KG and i am the product manager for Microsoft Endpoint Manager.
+Currently im employed by Operational Services GmbH & Co. KG and i am the product manager for Microsoft Endpoint Manager.
 <br><br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=niklasrast&label=Profile+Views"/>
