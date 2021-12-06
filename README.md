@@ -36,6 +36,7 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 
 ### Exams:
 <img src="microsoft-certified-windows10.png"/>
+<img src="microsoft-certified-moderndesktop.png"/>
 
 
 <hr>
