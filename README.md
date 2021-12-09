@@ -33,6 +33,7 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 
 ### Certifications:
 <img src="microsoft-certified-azure-fundamentals.png"/>
+<img src="microsoft-365-certified-modern-desktop-administrator-associate.png"/>
 
 ### Exams:
 <img src="microsoft-certified-windows10.png"/>
