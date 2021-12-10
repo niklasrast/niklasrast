@@ -20,11 +20,12 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/-PowerShell-blue"/>
+<img src="https://img.shields.io/badge/-C#-blue"/>
 <img src="https://img.shields.io/badge/-Azure-blue"/>
-<img src="https://img.shields.io/badge/-MS Graph-blue"/>
+<img src="https://img.shields.io/badge/-MicrosoftGraph-blue"/>
 <img src="https://img.shields.io/badge/-Intune-blue"/>
 <img src="https://img.shields.io/badge/-Windows-blue"/>
-<img src="https://img.shields.io/badge/-Azure Virtual Desktop-blue"/>
+<img src="https://img.shields.io/badge/-AzureVirtualDesktop-blue"/>
 <img src="https://img.shields.io/badge/-VSCode-blue"/>
 <img src="https://img.shields.io/badge/-Github-blue"/>
 <img src="https://img.shields.io/badge/-TeamViewer-blue"/>
