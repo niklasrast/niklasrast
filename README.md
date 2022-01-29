@@ -28,7 +28,6 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 <img src="https://img.shields.io/badge/-AzureVirtualDesktop-blue"/>
 <img src="https://img.shields.io/badge/-VSCode-blue"/>
 <img src="https://img.shields.io/badge/-Github-blue"/>
-<img src="https://img.shields.io/badge/-TeamViewer-blue"/>
 </p>
 <hr>
 
