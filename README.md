@@ -38,15 +38,3 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 ### Exams:
 <img src="microsoft-certified-windows10.png"/>
 <img src="microsoft-certified-moderndesktop.png"/>
-
-
-<hr>
-
-### My Github stats
-<br>
-<p align="center">
-  
-![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niklasrast&show_icons=true&theme=react&hide=stars,prs,contribs)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklasrast&layout=compact&theme=react)](https://github.com/niklasrast/github-readme-stats)
-</p>
