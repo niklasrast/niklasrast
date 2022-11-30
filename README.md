@@ -11,7 +11,7 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 </p>
 <br><br>
 
-*Read more about me and my projects [here](https://niklasrast.github.io/).*
+*Read more about me and my projects [here](https://niklasrast.wordpress.com/).*
 <br>
 *See some of my Github-Gists [here](https://gist.github.com/niklasrast).*
 <hr>
