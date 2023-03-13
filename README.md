@@ -5,9 +5,6 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 <br><br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=niklasrast&label=Profile+Views"/>
-<img src="https://badges.pufler.dev/years/niklasrast"/>
-<img src="https://badges.pufler.dev/repos/niklasrast"/>
-<img src="https://badges.pufler.dev/commits/monthly/niklasrast"/>
 </p>
 <br><br>
 
