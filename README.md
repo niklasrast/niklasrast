@@ -20,7 +20,6 @@ Currently im employed by Operational Services GmbH & Co. KG and i am the product
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/-PowerShell-blue"/>
-<img src="https://img.shields.io/badge/-CSharp-blue"/>
 <img src="https://img.shields.io/badge/-Azure-blue"/>
 <img src="https://img.shields.io/badge/-MicrosoftGraph-blue"/>
 <img src="https://img.shields.io/badge/-Intune-blue"/>
