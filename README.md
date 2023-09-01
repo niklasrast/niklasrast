@@ -10,3 +10,5 @@ I'm specialising in the design and architecture of Microsoft Modern Work environ
 To learn more about me, my projects or some industry insights, check out my blog [here](https://niklasrast.com/).
 <br>
 *See some of my Github-Gists [here](https://gist.github.com/niklasrast).*
+<br>
+*See my Contributions to PowerShell Gallery [here](https://www.powershellgallery.com/profiles/niklasrast).*
